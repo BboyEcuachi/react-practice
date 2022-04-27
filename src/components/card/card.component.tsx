@@ -45,9 +45,9 @@ const Card = (props: any) => {
     <>
       <div className={`card pokemon-${cardState?.color ?? ''}-type`}>
         <CardImage url={cardState?.photo} />
+        <PokemonSizes height={cardState?.height} weight={cardState?.weight}/>
         <div className='card-body'>
           <h5 className='card-title'> { pokemon.name } </h5>
-          <PokemonSizes height={cardState?.height} weight={cardState?.weight}/>
           <PokemonStats stats={cardState?.stats}/>
           <PokemonTypes types={cardState?.types}/>
         </div>

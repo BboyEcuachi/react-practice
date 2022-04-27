@@ -19,4 +19,13 @@ button.search-button {
   }
 }
 
+.poke-link {
+  color: var(--red) !important;
+  border-color: var(--red) !important;
+  &:disabled { 
+    color: var(--f7f0f0) !important;
+    border-color: gray !important;
+  }
+}
+
 

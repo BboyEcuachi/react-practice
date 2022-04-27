@@ -59,10 +59,10 @@ function App() {
       <nav aria-label="Page navigation example">
         <ul className="pagination justify-content-center">
           <li className="page-item">
-            <button className="page-link" disabled={!appState?.pokemons?.previous} onClick={previous}> Previous </button>
+            <button className="page-link poke-link" disabled={!appState?.pokemons?.previous} onClick={previous}> Previous </button>
           </li>
           <li className="page-item">
-            <button className="page-link" disabled={!appState?.pokemons?.next} onClick={next}> Next </button>
+            <button className="page-link poke-link" disabled={!appState?.pokemons?.next} onClick={next}> Next </button>
           </li>
         </ul>
       </nav>
