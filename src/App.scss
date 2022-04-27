@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+a.nav-title {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--material-border) !important;
+}
+
+button.search-button {
+  color: var(--red);
+  border: 1px solid var(--red);
+  border-radius: 1rem;
+  &:hover {
+    color: var(--red);
+    background-color: var(--ffdbd0);
+  }
+}
+
+

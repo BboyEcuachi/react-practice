@@ -1,0 +1,64 @@
+.card-body {
+  padding: 4px !important;
+  .card-title {
+    text-transform: capitalize;
+    margin: 4px 0px 2px;
+  }
+  .card-text {
+    margin-bottom: 0px;
+  }
+}
+.card-footer {
+  padding: 4px 2px !important;
+}
+
+.pokemon-black-type {
+  border-color: var(--black)!important;
+  background-color: var(--soft-black)!important;
+}
+
+.pokemon-blue-type {
+  border-color: var(--blue)!important;
+  background-color: var(--soft-blue)!important;
+}
+
+.pokemon-brown-type {
+  border-color: var(--brown)!important;
+  background-color: var(--soft-brown)!important;
+}
+
+.pokemon-gray-type {
+  border-color: var(--gray)!important;
+  background-color: var(--soft-gray)!important;
+}
+
+.pokemon-green-type {
+  border-color: var(--green)!important;
+  background-color: var(--soft-green)!important;
+}
+
+.pokemon-pink-type {
+  border-color: var(--pink)!important;
+  background-color: var(--soft-pink)!important;
+}
+
+.pokemon-purple-type {
+  border-color: var(--purple)!important;
+  background-color: var(--soft-purple)!important;
+}
+
+.pokemon-red-type {
+  border-color: var(--red)!important;
+  background-color: var(--soft-red)!important;
+}
+
+.pokemon-white-type {
+  border-color: var(--white)!important;
+  background-color: var(--soft-white)!important;
+}
+
+.pokemon-yelow-type {
+  border-color: var(--yelow)!important;
+  background-color: var(--soft-yelow)!important;
+}
+

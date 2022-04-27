@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  /* CSS HEX  Houm*/
+  --red: #ff5000!important;
+  --salmon: #ffdbd0;
+  --pink: #ffdbd0;
+  --beige: #f7f0f0;
+  --white: #f7eff0;
+  --material-border: 0.5px solid #e9e9e9;
+
+  /* color HEX pokemon types  */
+  --normal-type-color: #A8A77A;
+  --fire-type-color:  #EE8130;
+  --water-type-color:  #6390F0;
+  --electric-type-color:  #F7D02C;
+  --grass-type-color:  #7AC74C;
+  --ice-type-color:  #96D9D6;
+  --fighting-type-color:  #C22E28;
+  --poison-type-color:  #A33EA1;
+  --ground-type-color:  #E2BF65;
+  --flying-type-color:  #A98FF3;
+  --psychic-type-color:  #F95587;
+  --bug-type-color:  #A6B91A;
+  --rock-type-color:  #B6A136;
+  --ghost-type-color:  #735797;
+  --dragon-type-color:  #6F35FC;
+  --dark-type-color:  #705746;
+  --steel-type-color:  #B7B7CE;
+  --fairy-type-color:  #D685AD;
+
+  /* color HEX pokemon types  */
+  --black: #000000;
+  --blue: #3e8bff;
+  --brown: #b8860c;
+  --gray: #696969;
+  --green: #218b22;
+  --pink: #db7093;
+  --purple: #695acd;
+  --red: #ff6347;
+  --white: #eeeeee;
+  --yelow: #fed700;
+  --soft-black: #a9a9a9;
+  --soft-blue: #d0e4ff;
+  --soft-brown: #eedd81;
+  --soft-gray: #d3d3d3;
+  --soft-green: #ddffde;
+  --soft-pink: #ffe4e1;
+  --soft-purple: #c5badb;
+  --soft-red: #ffd1d1;
+  --soft-white: #ffffff;
+  --soft-yelow: #fffacd;
+}
+
